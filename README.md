@@ -35,6 +35,6 @@ Junior Python Developer / Backend Engineer
 
 ## Контакты
 
-- Email: your_email@example.com  
-- Telegram: [@yourhandle](https://t.me/yourhandle)  
+- Email: msaltysh@gmail.com 
+- Telegram: [@mariolevo](https://t.me/mariolevo)  
 - GitHub: [Marat423](https://github.com/Marat423)
