@@ -17,11 +17,6 @@ Junior Python Developer / Backend Engineer
 - Фреймворки и библиотеки: Django, Django REST Framework, Pandas, FastAPI (в процессе изучения)  
 - Базы данных: PostgreSQL, SQLite  
 - Инструменты: Git, Docker, Swagger, Postman, PyCharm  
----
-
-## Проекты
-
-- [Task Manager API](https://github.com/Marat423/task-manager-api) — система управления задачами с регистрацией пользователей, JWT‑аутентификацией, фильтрацией и автогенерацией документации Swagger  
 
 ---
 
